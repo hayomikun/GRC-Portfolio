@@ -43,8 +43,8 @@ All deliverables are sanitized versions of actual enterprise work. Company names
  📞 Contact
 Ayomipo H. Alademehin, CISA
 
-📧 halademehin@yahoo.com  
-📱 +1 (832) 547-5481  
-📍 Texas, USA  
+ halademehin@yahoo.com  
+ +1 (832) 547-5481  
+ Texas, USA  
 🔗 [LinkedIn](https://www.linkedin.com/in/alademehin-ayomipo/)
 Available for: GRC Analyst, IT Risk Analyst, Cybersecurity Compliance roles
