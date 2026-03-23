@@ -62,7 +62,6 @@ Regulatory Compliance (5 questions)
 
 Risk-weighted questions: Critical (red), High (orange), Medium (yellow)
 Scoring guidance: Must-pass thresholds for each tier
- Ready to send to vendors: Professional, comprehensive format
 
 Sheet 3: Assessment Summary
 
@@ -71,7 +70,6 @@ Sheet 3: Assessment Summary
  Data classification levels defined
  Assessment frequency specified
  Program metrics and success factors
- Executive-ready overview
 
 Skills Demonstrated
 
