@@ -29,10 +29,49 @@ SOX Compliance | IT Audit | Control Testing | Deficiency Management
 
  Impact Metrics
 
-- ✅ $450K cybersecurity budget secured
-- ✅ Zero repeat audit findings
-- ✅ 60% reduction in reporting time
-- ✅ 40+ control gaps identified
+-  $450K cybersecurity budget secured
+-  Zero repeat audit findings
+-  60% reduction in reporting time
+-  40+ control gaps identified
+
+- Sheet 1: Vendor Risk Register
+
+15 vendor assessments across diverse categories:
+
+Cloud services, payment processing, logistics, analytics
+HR, cybersecurity, financial software, hosting
+Legal, IT support, backup, web design, data center
+
+
+ Color-coded risk tiers: High (orange), Medium (yellow), Low (green)
+Complete risk scoring: Inherent → Controls → Residual risk
+Assessment tracking: Last assessment date + next review date
+Compliance notes: SOC 2, ISO 27001, PCI DSS, GDPR certifications
+Summary metrics: 15 vendors | 93% completion | Zero incidents
+
+Sheet 2: Due Diligence Questionnaire (DDQ)
+
+ 30+ security questions across 5 critical categories:
+
+Information Security (5 questions)
+Access Control & IAM (5 questions)
+Data Protection & Encryption (5 questions)
+Incident Response & BC (5 questions)
+Regulatory Compliance (5 questions)
+
+
+Risk-weighted questions: Critical (red), High (orange), Medium (yellow)
+Scoring guidance: Must-pass thresholds for each tier
+ Ready to send to vendors: Professional, comprehensive format
+
+Sheet 3: Assessment Summary
+
+ Program methodology documented
+ Risk tiering approach explained
+ Data classification levels defined
+ Assessment frequency specified
+ Program metrics and success factors
+ Executive-ready overview
 
 Skills Demonstrated
 
