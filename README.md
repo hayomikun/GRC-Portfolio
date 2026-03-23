@@ -1,9 +1,9 @@
 GRC-Portfolio
- CISA-certified GRC analyst portfolio: NIST CSF assessments, IT risk registers, and compliance frameworks
+ CISA-certified GRC analyst portfolio: NIST CSF assessments, IT risk registers and compliance frameworks
 Portfolio Files
 
 1. NIST Cybersecurity Framework 2.0 Implementation
-File:`01_NIST_CSF_Implementation_Plan.xlsx`
+File:01_NIST_CSF_Implementation_Plan.xlsx`
 
 - Full maturity assessment across all 6 CSF functions
 - Gap analysis with prioritization
@@ -15,6 +15,17 @@ File:02_IT_Risk_Assessment_Register.xlsx`
 - 15+ IT/cybersecurity risks
 - Quantitative risk scoring
 - Risk treatment plans
+
+- 3. SOX IT General Controls (ITGC) Testing Workbook
+File:03_SOX_ITGC_Testing_Workbook.xlsx
+
+- 25 SOX control tests across 5 categories
+- Control testing procedures and evidence tracking
+- Deficiency management and remediation plans
+- 84% control effectiveness rate
+
+SOX Compliance | IT Audit | Control Testing | Deficiency Management
+
 
  Impact Metrics
 
@@ -34,7 +45,7 @@ Skills Demonstrated
  Certifications
 
 CISA- Certified Information Systems Auditor (Active)
-  CRISC - Certified in Risk and Information Systems Control (In View)
+CRISC - Certified in Risk and Information Systems Control (In View)
 
  Confidentiality Notice
 
@@ -46,5 +57,5 @@ Ayomipo H. Alademehin, CISA
  halademehin@yahoo.com  
  +1 (832) 547-5481  
  Texas, USA  
-🔗 [LinkedIn](https://www.linkedin.com/in/alademehin-ayomipo/)
+ [LinkedIn](https://www.linkedin.com/in/alademehin-ayomipo/)
 Available for: GRC Analyst, IT Risk Analyst, Cybersecurity Compliance roles
